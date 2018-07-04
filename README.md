@@ -1,3 +1,16 @@
-# Projet de CV interactif, avec du Vue.js dedans
+# RoseResume
 
-https://labs.claudejanssen.be/vue/
+
+- Objectif : réaliser un CV interactif
+- Workflow :
+  - utiliser Git(hub)
+  - réaliser un mockup
+  - établir une liste des features
+  - intégrer [vue.js](https://labs.claudejanssen.be/vue/)
+  - déployer
+
+### Mockup
+
+### Features
+
+
