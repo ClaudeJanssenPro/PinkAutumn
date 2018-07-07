@@ -25,4 +25,3 @@
   - W3C compliant
 
 ### Demo
-
