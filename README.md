@@ -7,16 +7,18 @@
 
 ### Features
 
-- [] Privative (hide sensitive informations until print)
-- [] Semantic HTML5
-- [] Responsive
+- [ ] Privative (hide sensitive informations until print)
+- [ ] Semantic HTML5
+- [ ] Responsive
 - [x] Favicon
-- [] PWA
-- [] Google AMP ?
-- [] All green Lighthouse score
-- [] W3C compliant
-- [] SEO
-- [] Social networks backlinks
+- [ ] PWA
+- [ ] Google AMP ?
+- [ ] All green Lighthouse score
+- [ ] W3C compliant
+- [ ] SEO
+- [ ] Social networks backlinks
+- [ ] Print css
+- [ ] Useful 404
 
 ---
 
@@ -28,17 +30,11 @@
 - [x] create a few samples
 - [x] have the client to choose one
 - [x] build a Minimum Viable Product
-- [] add relevant content
-- [] deploy it
-- [] test it out
-- [] add aformentioned features
-- [] deliver the final product
-
----
-
-### Mockup
-
-- not relevant (?)
+- [x] add relevant content
+- [ ] deploy it
+- [ ] test it out
+- [ ] add aformentioned features
+- [ ] deliver the final product
 
 ---
 
