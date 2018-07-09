@@ -7,14 +7,16 @@
 
 ### Features
 
-- Privative (hide sensitive informations until print)
-- Semantic HTML5
-- Responsive
-- Favicon
-- PWA
-- Google AMP ?
-- All green Lighthouse score
-- W3C compliant
+- [] Privative (hide sensitive informations until print)
+- [] Semantic HTML5
+- [] Responsive
+- [x] Favicon
+- [] PWA
+- [] Google AMP ?
+- [] All green Lighthouse score
+- [] W3C compliant
+- [] SEO
+- [] Social networks backlinks
 
 ---
 
