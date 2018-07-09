@@ -1,1 +1,4 @@
 **/Storage
+**/.vscode
+.gitignore
+_config.yml
