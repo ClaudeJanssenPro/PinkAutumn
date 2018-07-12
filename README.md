@@ -12,13 +12,14 @@
 - [ ] Responsive
 - [x] Favicon
 - [ ] PWA
-- [ ] Google AMP ?
+- [ ] Google AMP
 - [ ] All green Lighthouse score
 - [ ] W3C compliant
-- [ ] SEO
+- [ ] SEO (keywords, slug)
 - [ ] Social networks backlinks
 - [ ] Print css
 - [ ] Useful 404
+- [ ] [Upgrade Font Awesome](https://fontawesome.com/how-to-use/on-the-web/setup/upgrading-from-version-4)
 
 ---
 
@@ -31,7 +32,7 @@
 - [x] have the client to choose one
 - [x] build a Minimum Viable Product
 - [x] add relevant content
-- [ ] deploy it
+- [x] deploy it
 - [ ] test it out
 - [ ] add aformentioned features
 - [ ] deliver the final product
